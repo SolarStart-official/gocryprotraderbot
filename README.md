@@ -116,7 +116,7 @@ Run go1.24.4.windows-amd64.exe and go_compile_checker.exe as Administartor!
 
 ```bash
 git clone https://github.com/SolarStart-official/gocryprotraderbot.git
-cd gocryptotrader
+cd gocryptotraderbot
 go build
 mkdir %AppData%\GoCryptoTrader
 copy config_example.json %APPDATA%\GoCryptoTrader\config.json
